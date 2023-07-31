@@ -40,7 +40,7 @@
       A Clone From Santander Card home page with Angular
     <br />
     <a 
-      href="## Usage">
+      href="https://santander-dev-week.vercel.app/">
       <strong>Navigate Live Demo Now »</strong>
     </a>
     <br />
@@ -105,4 +105,4 @@ Runs the app in the development mode.<br/>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/TiagoBarbosa88)
+⌨️ Feito por [Tiago Barbosa](https://github.com/TiagoBarbosa88)
