@@ -31,7 +31,7 @@
 
 <div align="center">
   	<a href="#">
-      <img src=".github/assets/preview.png" width="400" alt="preview" />
+      <img src="./src/assets/santander_previu.png" width="400" alt="preview" />
   	</a>
 </div>
 
@@ -46,14 +46,12 @@
     <br />
     <br />
     <a 
-      href="https://github.com/felipeAguiarCode/
-		angular-santander-home-clone/issues">
+      href="https://github.com/TiagoBarbosa88/Santander_devWeek/issues">
       Report Bug
     </a>
     ·
     <a 
-      href="https://github.com/felipeAguiarCode/
-			angular-santander-home-clone/issues/new">
+      href="https://github.com/TiagoBarbosa88/Santander_devWeek/issues/new">
       Request Feature
     </a>
   </p>
@@ -101,10 +99,10 @@ Runs the app in the development mode.<br/>
 
 ## Autor
 
-| [<img src="https://avatars3.githubusercontent.com/u/37452836?s=96&v=4"><br><sub>Felipe Aguiar</sub>](https://github.com/felipeAguiarCode) |
+| [<img src="https://avatars.githubusercontent.com/u/55719708?s=96&v=4"><br><sub>Tiago Barbosa</sub>](https://github.com/TiagoBarbosa88) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
-|                                             [Linkedin](www.linkedin.com/in/felipe-aguiar-exe)                                             |
+|                                             [Linkedin](https://www.linkedin.com/in/tiagolimabarbosa/)                                             |
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Felipe Aguiar](https://github.com/TiagoBarbosa88)
